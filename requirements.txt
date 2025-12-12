@@ -1,0 +1,4 @@
+google-generativeai
+PyGithub
+requests
+python-dotenv

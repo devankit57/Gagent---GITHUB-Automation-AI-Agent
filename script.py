@@ -12,8 +12,8 @@ load_dotenv()
 # Configuration from environment (.env)
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
-REPO_NAME = os.getenv("REPO_NAME", "shreyito/DSA-Codes")
-EMAIL_API_URL = os.getenv("EMAIL_API_URL", "https://api.batworks.in/git.php")
+REPO_NAME = os.getenv("REPO_NAME", "REPO")
+EMAIL_API_URL = os.getenv("EMAIL_API_URL", "EMAIL API")
 
 SENDER_FIRST_NAME = os.getenv("SENDER_FIRST_NAME", "Ankit")
 SENDER_LAST_NAME = os.getenv("SENDER_LAST_NAME", "Mishra")
@@ -176,3 +176,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

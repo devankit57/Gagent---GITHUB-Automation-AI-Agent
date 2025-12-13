@@ -79,7 +79,7 @@ GITHUB_TOKEN=your_github_personal_access_token
 REPO_NAME=yourusername/your-repo-name
 
 # Optional: Email Notification API
-EMAIL_API_URL=https://api.batworks.in/git.php
+EMAIL_API_URL= Create your email server
 SENDER_FIRST_NAME=Your_First_Name
 SENDER_LAST_NAME=Your_Last_Name
 SENDER_EMAIL=your.email@example.com

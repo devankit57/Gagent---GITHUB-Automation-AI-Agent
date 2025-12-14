@@ -3,7 +3,7 @@ import re
 import requests
 import google.generativeai as genai
 from github import Github, Auth
-from datetime import datetime
+from datetime import datetime 
 from dotenv import load_dotenv
 
 # load .env from same folder
@@ -176,4 +176,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 

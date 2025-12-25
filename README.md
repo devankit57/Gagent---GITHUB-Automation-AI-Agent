@@ -1,5 +1,5 @@
 # GitHub Automation Agent 🤖
-### AI-Powered DSA Code Generator | Automated Daily Commits with Gemini API
+### AI-Powered DSA Code Generator | Automated Daily Commits with Gemini API 
 
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Gemini API](https://img.shields.io/badge/Gemini-API-4285F4?style=flat&logo=google&logoColor=white)](https://ai.google.dev/)
